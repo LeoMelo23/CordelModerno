@@ -23,8 +23,9 @@ header{
 
 header h1{
     font-family: "Passion One", sans-serif;
-    font-size: 9vw;
+    font-size: 10vw;
     letter-spacing: 1px;
+    font-variant: small-caps;
 }
 
 header p{
@@ -44,8 +45,8 @@ a:hover{
 .Corpo-Texto{
     padding: 3rem;
     margin-top: 7rem;
-    font-size: 7vh;
-    line-height: 14vh;
+    font-size: 4vw;
+    line-height: 7vw;
 
 }
 
@@ -61,8 +62,8 @@ a:hover{
     color: white;
     padding: 3rem;
     margin-top: 7rem;
-    font-size: 7vh;
-    line-height: 14vh;
+    font-size: 4vw;
+    line-height: 7vw;
     
 }
 
@@ -85,4 +86,10 @@ footer{
     font-family: Arial, Helvetica, sans-serif;
     padding: 1.5rem;
     font-size: 1.6rem;
+}
+
+.img p, .img2 p{
+    background-color: rgba(0, 0, 0, 0.253);
+    width: 47vw;
+    padding: 2rem;
 }
