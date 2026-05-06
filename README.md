@@ -1,3 +1,3 @@
-# 📖Cordel Moderno
+## Cordel Moderno
 
- Um projeto de estudo proposto pelo professor Gustavo Guanabara em seu canal do Youtube <a href="https://www.youtube.com/@cursoemvideo">Curso em Vídeo.
+ Esse foi um projeto de estudo proposto pelo professor Gustavo Guanabara através do seu canal <a href="https://www.youtube.com/cursoemvideo">Curso em Video 
